@@ -1,0 +1,17 @@
+D:\Programming\New folder\repos\Space_Simulation\Space_Simulation\bin\Debug\net8.0-windows\Space_Simulation.exe
+D:\Programming\New folder\repos\Space_Simulation\Space_Simulation\bin\Debug\net8.0-windows\Space_Simulation.deps.json
+D:\Programming\New folder\repos\Space_Simulation\Space_Simulation\bin\Debug\net8.0-windows\Space_Simulation.runtimeconfig.json
+D:\Programming\New folder\repos\Space_Simulation\Space_Simulation\bin\Debug\net8.0-windows\Space_Simulation.dll
+D:\Programming\New folder\repos\Space_Simulation\Space_Simulation\bin\Debug\net8.0-windows\Space_Simulation.pdb
+D:\Programming\New folder\repos\Space_Simulation\Space_Simulation\obj\Debug\net8.0-windows\Space_Simulation.MainForm.resources
+D:\Programming\New folder\repos\Space_Simulation\Space_Simulation\obj\Debug\net8.0-windows\Space_Simulation.csproj.GenerateResource.cache
+D:\Programming\New folder\repos\Space_Simulation\Space_Simulation\obj\Debug\net8.0-windows\Space_Simulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\New folder\repos\Space_Simulation\Space_Simulation\obj\Debug\net8.0-windows\Space_Simulation.AssemblyInfoInputs.cache
+D:\Programming\New folder\repos\Space_Simulation\Space_Simulation\obj\Debug\net8.0-windows\Space_Simulation.AssemblyInfo.cs
+D:\Programming\New folder\repos\Space_Simulation\Space_Simulation\obj\Debug\net8.0-windows\Space_Simulation.csproj.CoreCompileInputs.cache
+D:\Programming\New folder\repos\Space_Simulation\Space_Simulation\obj\Debug\net8.0-windows\Space_Simulation.dll
+D:\Programming\New folder\repos\Space_Simulation\Space_Simulation\obj\Debug\net8.0-windows\refint\Space_Simulation.dll
+D:\Programming\New folder\repos\Space_Simulation\Space_Simulation\obj\Debug\net8.0-windows\Space_Simulation.pdb
+D:\Programming\New folder\repos\Space_Simulation\Space_Simulation\obj\Debug\net8.0-windows\Space_Simulation.genruntimeconfig.cache
+D:\Programming\New folder\repos\Space_Simulation\Space_Simulation\obj\Debug\net8.0-windows\ref\Space_Simulation.dll
+D:\Programming\New folder\repos\Space_Simulation\Space_Simulation\obj\Debug\net8.0-windows\Space_Simulation.Properties.Resources.resources
