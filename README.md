@@ -14,6 +14,7 @@ We have also three types of ground stations:
 3)	Ground stations that both communicate with and track the satellites.
 
 ## Theories
+You can access the more detailed explanation from here [Project Documentation](https://github.com/hamdyekiz/SatelliteOrbitSimulation/blob/main/Project%20Documentations/Project%20Documentation.pdf).
 To simulate the motion of the satellite, numerical integration methods (Runge-Kutta 4th Order and Euler Integration) is used to solve the equations of motion. In figure below you can see the satellite and grand station representations:
 
 ![Visualization of the System](https://github.com/hamdyekiz/SatelliteOrbitSimulation/blob/main/Project%20Documentations/Images/satellite%20ground%20station.png)
